@@ -1,2 +1,2 @@
-# 12EH_Pr-fungsvorbereitung-1
+# 12EH_Pruefungsvorbereitung-1
 Hier ist dein Trainer für die Abschlussprüfung Teil2 
